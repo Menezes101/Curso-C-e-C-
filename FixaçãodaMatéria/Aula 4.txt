@@ -1,0 +1,14 @@
+Diferenças entre Baixo e Alto Nível:
+
+Baixo Nível:
+É o mais próximo que temos da linguagem de máquina (binário).
+É possível fazer alocações na memória ou apontar para posições na memória que contém variáveis (ponteiros).
+São processados mais rapidamente, porém, temos que programar mais.
+Exemplo: C
+
+Alto Nível:
+É o mais próximo da linguagem falada.
+Não controlamos o quanto de memória será utilizado pelo computador.
+Precisa passar por interpretadores (navegadores ou maquinas virtuais).
+É mais lento, porém, programamos menos.
+Exemplo: Java
